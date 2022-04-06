@@ -1,6 +1,6 @@
 # vue2routing
 
-To Visit The live version Click : https://myvueroutingapp.netlify.app
+To Visit The live version Click : https://routingappvue.netlify.app/
 
 
 ## Project setup
